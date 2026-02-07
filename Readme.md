@@ -1,6 +1,8 @@
-<center> <img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt='drawing' style='width:400px;'></center>
+# Project 1 — Анализ резюме из HeadHunter (Pandas)
 
-# <center> ОПИСАНИЕ ЗАДАЧИ </center>
+![HeadHunter](https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg)
+
+# Описание задачи
 
 В вашем распоряжении будет база резюме, выгруженная с сайта поиска вакансий hh.ru.
 
@@ -15,9 +17,6 @@
 Наш проект будет состоять из четырёх частей:
 
 1. базовый анализ структуры данных
-
 2. преобразование данных
-
 3. разведывательный анализ
-
 4. очистка данных
